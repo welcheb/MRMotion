@@ -1,7 +1,7 @@
 MRMotion
 ========
 
-MATLAB GUI tool to simulate effects of in-plane motion on 2D Cartesian Magnetic Resonance Images
+MATLAB GUI tool to simulate effects of in-plane translation on 2D Cartesian Magnetic Resonance Images
 
 
 ### Usage
